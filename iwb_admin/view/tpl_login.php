@@ -19,6 +19,7 @@
                 <button id="user-submint_button" type="submit" class="btn btn-primary" name="login">Submit</button>
               </div>
             </form>
+            <a href="<?php echo $_CONFIG["base_url"].'index.php?page=register'?>">Register</a>
           </div>  
        </div> 
 

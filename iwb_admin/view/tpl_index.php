@@ -11,7 +11,7 @@
 		<div>
 			<div>
 				<?php			
-				    if($_PAGE != "login") {
+				    if($_PAGE != "register") {
 					if(file_exists($_CONFIG['html_path'].'tpl_header.php'))
 					{
 						include_once($_CONFIG['html_path'].'tpl_header.php'); 
@@ -31,7 +31,7 @@
 			</div>
 			<div>
 				<?php
-                   if($_PAGE != "login") {				
+                   if($_PAGE != "register") {				
 					if(file_exists($_CONFIG['html_path'].'tpl_footer.php'))
 					{
 						include_once($_CONFIG['html_path'].'tpl_footer.php'); 
