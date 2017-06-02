@@ -1,0 +1,1364 @@
+@media (max-width: 767px) {
+    .left_photo_parebt_dash{
+    width: 100% !important;
+}
+.right_parebt_dash
+{
+       width: 100% !important;
+       margin-left: 0px !important;
+}
+.dash_gread_div {
+    width: 100%!important;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.header_log img {
+    width: 300px !important;
+    padding-bottom: 15px;
+}
+.dash_gread_button_a,.dash_gread_button_b {
+    float: none !important;
+}
+.dash_cahange_cancel a,.dash_cahange_cancel a
+ {
+    float: none !important;
+}
+.dash_time_date {
+    width: 100%!important;
+    margin-left: 0!important;
+    margin-right: 0!important;
+    margin-bottom: 20px !important;
+    margin-top: 10px !important;
+}
+.dash_time_date ul {
+    padding: 0px;
+    margin: 0px auto !important;
+    width: 210px;
+}
+.dash_cahange_cancel {
+    width: 158px !important;
+    float: none !important;
+    margin: 0 auto;
+}
+
+.dash_text
+{
+    margin-top: 20px !important;
+}
+.left_photo_parebt_dash_studentdetail
+{
+    width: 100% !important;
+}
+.left_photo_parebt_dash_studentdetail img {
+    width: 120px !important;
+}
+.right_parebt_dash_studentdetail {
+    float: left;
+    width: 100% !important;
+    margin-left: 0px !important;
+}
+.dash_student_details {
+    float: none !important;
+    width: 170px !important;
+    margin: 0 auto;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 120px;
+}
+.teach_viewchild_siblings_left {
+    width: 100%;
+    background: #f9f9f9;
+}
+#teacher_semester_length .modal-content {
+    display: table;
+    width: 100%;
+}
+div#Semester_class_length {
+    width: 100%;
+}
+}
+@media (min-width: 768px) {
+.user_poto {
+    width: 130px;
+    height: 130px;
+}
+
+
+.teacher_cale_home li div {
+    min-height: 130px;
+}
+.teacher_cale_home
+{
+padding: 0px 20px; 
+}
+span.payment_amt_right
+{
+right: -4px !important;
+top: 26px !important;
+}
+ .form-group.singlepage_zip label {
+    border: none !important;
+}
+.form-group.singlepage_zip label {
+    width: 40px !important;
+}
+.form-group.singlepage_zip {
+    width: 30% !important;
+}
+.form-group.singlepage_city {
+    width: 58% !important;
+}
+#family_pop_Form .form-group.singlepage_zip {
+    width: 41% !important;
+}
+#family_pop_Form .form-group.singlepage_zip input {
+    width: 79.555% !important;
+}
+.form-group.singlepage_city input {
+    width: 62% !important;
+}
+.dash_cahange_cancel {
+    float: left;
+    width: 21.333% !important;
+    text-align: center;
+    margin-top: 28px;
+}
+#siblings_select_right {
+    height: 480px;
+}
+#teacher_semester_length .modal-dialog {
+    width: 750px;
+    margin: 30px auto;
+}
+
+#teacher_semester_length .modal-content,#teacher_break_length .modal-content,#teacher_class_length .modal-content
+{
+   float: left;
+    width: 100%
+}
+}
+
+
+@media (min-width: 992px){
+
+span.payment_amt_right
+{
+right: 3px !important;
+top: 26px !important;
+}
+.dash_cahange_cancel {
+    float: left;
+    width: 23.5% !important;
+    text-align: center;
+    margin-top: 28px;
+}
+.parent_dashboard_studentdetail_height_sco {
+    float: left;
+    width: 100%;
+    height: 244px !important;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+#siblings_select_right {
+    height: 480px;
+}
+}
+
+
+
+
+
+@media (min-width: 1200px) {
+.user_poto {
+    width: 144px;
+    height: 144px;
+}
+
+span.payment_amt_right
+{
+right: 2px !important;
+top: 26px !important;
+}
+#siblings_select_right {
+    height: 457px;
+}
+.teacher_cale_home li div {
+    min-height: 144px;
+}
+.teacher_cale_home
+{
+	padding: 20px 
+}
+.dash_cahange_cancel {
+    float: left;
+    width: 23.555% !important;
+    text-align: center;
+    margin-top: 28px;
+}
+.parent_dashboard_studentdetail_height_sco {
+    float: left;
+    width: 100%;
+    height: 244px !important;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+    .teacher_cale_home img {
+width: 144px !important;
+}
+.time_min
+{
+	margin: 0px !important;
+    margin-bottom: 20px !important;
+} 
+.name_time p
+{
+	width: 72%;
+}
+.teacher_cale_home div {
+    margin-bottom: 20px;
+}
+.sub_button_border {
+    width: 100%;
+}
+.user_poto {
+    width: 144px;
+    height: 144px;
+}
+.teacher_cale_home img
+{
+	width: 144px;
+}
+
+#provide_pop label {
+    width: 100% !important;
+    margin-bottom: 20px !important;
+}
+.user_poto {
+    width: inherit;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.terms_page {
+
+    height: 450px !important;
+}
+.terms_page p {
+
+    font-size: 16px !important;
+}
+.termsForm {
+    width: 100%;
+}
+.teacher_cale_home li div {
+    min-height: 144px;
+}
+.teacher_cale_home
+{
+	padding: 0px 10px;
+}
+.panel
+{
+	float: left;
+	width: 100%;
+	
+}
+
+span.payment_amt_right {
+    transform: rotate(0) !important;
+      -webkit-transform: rotate(0deg) !important;
+    -moz-transform: rotate(0deg) !important;
+    -ms-transform: rotate(0deg) !important;
+    -o-transform: rotate(-0deg) !important;
+    background: #565656 none repeat scroll 0% 0%;
+    padding: 0px;
+    color: #FFF;
+    border-radius: 0px 0px 5px 5px !important;
+    float: left;
+    position: relative !important;
+    top: 0px !important;
+    right: 0px !important;
+    text-align:center;
+
+}
+.ScheduleForm {
+    margin: 0 auto;
+    float: none;
+    width: 100%!important;
+}
+
+.Schedule_Ryan h1 {
+    font-size: 20px !important;
+    margin-bottom: 10px !important;
+}
+.SchedulePage_border
+{
+    padding: 20px 10px !important;
+}
+.teach_viewchild_attendance_left,#attendance_select {
+    padding: 0;
+    width: 100% !important;
+}
+#parent_select {
+    background: #f9f9f9 !important;
+}
+.teach_viewchild_parent_right {
+    width: 100%;
+}
+
+#parent_select_right {
+    border: 1px solid #737373;
+    border-top: none !important;
+    border-left: 1px solid #737373 !important;
+}
+.teach_viewchild_parent_left,#parent_select {
+    padding: 0;
+    width: 100% !important;
+}
+div#attendance_select span {
+    float: left;
+    width: 100% !important;
+    }
+    .teach_viewchild_attendance #close_button:hover, .teach_viewchild_attendance #close_button:active, .teach_viewchild_attendance #close_button:focus {
+    background: #fff !important;
+    outline: none;
+}
+.teach_viewchild_attendance_right {
+    width: 100%;
+}
+#attendance_select_right {
+    border: 1px solid #737373;
+    border-top: none !important;
+    border-left:1px solid #737373 !important; 
+}
+div#attendance_select_right span
+{
+    width: 100% !important;
+}
+.late {
+    margin-left: 0px !important;
+    margin-right:0px !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#attendance_select_right
+{
+    background: none !important;
+}
+#attendance_select
+{
+    background: #f9f9f9 !important;
+}
+
+span.oldrecards_amt_right {
+    transform: rotate(0) !important;
+    -webkit-transform: rotate(0deg) !important;
+    -moz-transform: rotate(0deg) !important;
+    -ms-transform: rotate(0deg) !important;
+    -o-transform: rotate(-0deg) !important;
+    background: #565656 none repeat scroll 0% 0%;
+    padding: 0px;
+    color: #FFF;
+    border-radius: 0px 0px 5px 5px !important;
+    float: left;
+    position: relative !important;
+    top: 0px !important;
+    right: 0px !important;
+    max-width: 100px !important;
+    text-align:center;
+}
+
+.history_payment_amt_right {
+  transform: rotate(0) !important;
+    -webkit-transform: rotate(0deg) !important;
+    -moz-transform: rotate(0deg) !important;
+    -ms-transform: rotate(0deg) !important;
+    -o-transform: rotate(-0deg) !important;
+    background: #565656;
+    padding: 0;
+       top: 0px !important;
+    right: 0px !important;
+    color: #FFF;
+    border-radius: 0px 0px 5px 5px !important;
+    position: relative !important;
+    padding: 6px 12px;
+    float: left;
+    max-width: 100px !important;
+    text-align:center;
+}
+
+
+
+.teach_viewchild_grade_left,#grade_select {
+    padding: 0;
+    width: 100% !important;
+}
+.teach_viewchild_note_left,#note_select {
+    padding: 0;
+    width: 100% !important;
+}
+div#grade_select span {
+    float: left;
+    width: 100% !important;
+    }
+    .teach_viewchild_grade #close_button:hover, .teach_viewchild_grade #close_button:active, .teach_viewchild_grade #close_button:focus {
+    background: #fff !important;
+    outline: none;
+}
+.teach_viewchild_grade_right {
+    width: 100%;
+}
+#grade_select_right {
+    border: 1px solid #737373;
+    border-top: none !important;
+    border-left:1px solid #737373 !important; 
+}
+.teach_viewchild_note_right {
+    width: 100%;
+}
+#note_select_right {
+    border: 1px solid #737373;
+    border-top: none !important;
+    border-left:1px solid #737373 !important; 
+}
+div#grade_select_right span
+{
+    width: 100% !important;
+}
+.late {
+    margin-left: 0px !important;
+    margin-right:0px !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#grade_select_right
+{
+    background: none !important;
+}
+#grade_select
+{
+    background: #f9f9f9 !important;
+}
+
+span.grade_oldrecards_amt_right {
+    transform: rotate(0) !important;
+    -webkit-transform: rotate(0deg) !important;
+    -moz-transform: rotate(0deg) !important;
+    -ms-transform: rotate(0deg) !important;
+    -o-transform: rotate(-0deg) !important;
+    background: #565656 none repeat scroll 0% 0%;
+    padding: 0px;
+    color: #FFF;
+    border-radius: 0px 0px 5px 5px !important;
+    float: left;
+    position: relative !important;
+    top: 0px !important;
+    right: 0px !important;
+    max-width: 63px !important
+}
+#grade_old_recoards .right-inner-addon {
+    margin: 0 auto;
+    width: 92% !important;
+    }
+    #grade_old_recoards .right-inner-addon input {
+    float: left;
+    width: 70% !important;
+}
+#grade_old_recoards h1 {
+    text-align: center;
+    font-size: 30px;
+}
+.teach_viewchild_payment_left, #payment_select {
+    padding: 0;
+    width: 100% !important;
+}
+.teach_viewchild_payment_right {
+    width: 100%;
+}
+#payment_select_right {
+    border: 1px solid #737373;
+    border-top: none !important;
+    border-left: 1px solid #737373 !important;
+}
+span.payment_oldrecards_amt_right {
+    transform: rotate(0) !important;
+      -webkit-transform: rotate(0deg) !important;
+    -moz-transform: rotate(0deg) !important;
+    -ms-transform: rotate(0deg) !important;
+    -o-transform: rotate(-0deg) !important;
+    background: #565656 none repeat scroll 0% 0%;
+    padding: 0px;
+    color: #FFF;
+    border-radius: 0px 0px 5px 5px !important;
+    float: left;
+    position: relative !important;
+    top: 0px !important;
+    right: 0px !important;
+    text-align:center;
+
+}
+
+
+.teach_viewchild_schedule_left, #schedule_select {
+    padding: 0;
+    width: 100% !important;
+}
+.teach_viewchild_schedule_right {
+    width: 100%;
+}
+#schedule_select_right {
+    border: 1px solid #737373;
+    border-top: none !important;
+    border-left: 1px solid #737373 !important;
+}
+.teach_viewchild_siblings_right {
+    width: 100%;
+}
+#siblings_select_right {
+    border: 1px solid #737373;
+    border-top: none !important;
+    border-left: 1px solid #737373 !important;
+}
+.oldrecards_schedule li .oldrecards_box
+{
+    width: 100%;
+}
+span.schedule_oldrecards_amt_right {
+    transform: rotate(0) !important;
+      -webkit-transform: rotate(0deg) !important;
+    -moz-transform: rotate(0deg) !important;
+    -ms-transform: rotate(0deg) !important;
+    -o-transform: rotate(-0deg) !important;
+    background: #565656 none repeat scroll 0% 0%;
+    padding: 0px;
+    color: #FFF;
+    border-radius: 0px 0px 5px 5px !important;
+    float: left;
+    position: relative !important;
+    top: 0px !important;
+    right: 0px !important;
+    text-align:center;
+
+}
+}
+
+
+@media (min-width: 481px) and (max-width: 767px){
+.panel {
+    float: left;
+    width: 50%;
+}
+#referForm .refer_page input {
+    max-width: 100% !important;
+    border: 1px solid #585858;
+    padding: 10px;
+    margin-bottom: 20px;
+    float: left;
+    width: 100% !important;
+}
+#referForm p {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+}
+@media (min-width: 320px) and (max-width: 480px){
+form#productForm label {
+    width: 75px !important;
+}
+#referForm p{
+    font-size: 16px !important;
+}
+div#singlepage_form input {
+    width: 49%;
+    max-width: 49% !important;
+}
+#parent_new_recoard div#singlepage_form input {
+    width: 61%;
+    max-width: 61% !important;
+}
+#parent_new_recoard ul.singlepage_form_ul .singlepage_city,#parent_new_recoard ul.singlepage_form_ul .singlepage_zip {
+    float: left;
+    width: 100% !important;
+}
+#parent_new_recoard div#singlepage_form input
+{
+    height: 45px!important;
+}
+.back_submint_note button
+{
+    font-size: 18px !important;
+}
+div#tab1 {
+    float: left;
+    width: 100%;
+    padding: 8px !important;
+}
+#productForm {
+    padding: 10px 0px !important;
+}
+.form-group.singlepage_zip label
+{
+	border-right:1px solid #585858 !important;
+}
+ul.singlepage_form_ul .singlepage_city, ul.singlepage_form_ul .singlepage_zip {
+    float: left;
+    width: 81% !important;
+}
+input.cancel_button,input.save_button {
+
+    padding: 15px 10px !important;
+    width: 100px !important;
+    margin-top: 20px;
+}
+div#submint_button {
+    margin: 0px auto;
+    width: 216px !important;
+}
+#productForm {
+    width: 268px !important;
+}
+form#productForm label,div#singlepage_form input
+{
+    font-size: 14px !important;
+}
+#parent_new_recoard #productForm {
+    width: 228px !important;
+}
+.top_dashboard-text h5
+{
+    font-size: 12px !important;
+}
+.top_dashboard-text h1
+{
+  font-size: 18px !important;  
+}
+#myCarousel {
+    margin: 0px auto;
+    width: 245px !important;
+    display: table;
+}
+.parent_dashboard_studentdetail_height_sco {
+    float: left;
+    width: 100%;
+    height: 307px !important;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.parent_dashboard_studentdetails_pop h1 {
+    font-size: 35px !important;
+    }
+    .date_time_pop_3 ul li
+    {
+        font-size: 14px !important;
+    }
+    div#myModal_4 h1,div#myModal_3 h1{
+       font-size: 20px !important;  
+    }
+    button.studentdetails_pop_3class_time, button.studentdetails_pop3_class_length
+    {
+        width: 100% !important;
+    }
+    span.date_month_year
+    {
+        width: 60% !important;
+        font-size: 10px !important;
+    }
+    span#popP3_edti_pencl, span#popP3_view_pencl
+    {
+        line-height: 25px !important;
+    }
+    span.time_pop_3 {
+    width: 32% !important;
+    font-size: 10px !important;
+}
+.parent_dashboard_studentdetails_pop_2 h1
+{
+    font-size: 26px !important;
+}
+#myModal_7 h3,#myModal_8 h3 {
+    margin: 0px auto;
+    width: 90% !important;
+}
+div#pop_7height {
+    margin: 0px auto;
+    width: 70%!important;
+    }
+    #myModal_7 p
+    {
+    width: 85%!important;
+    }
+    .dashboard_studentdetails_pop_button_lenght {
+    margin: 0px auto;
+    width: 160px!important;
+    display: table;
+}
+div#myModal_6 h1
+{
+    width: 70% !important;
+}
+.pop_10_grade_eye_icon
+{
+    width: 80% !important;
+}
+.grade_modal-dialog .pop_10_grade_eye_icon {
+    width: 100% !important;
+}
+#myModal_10 .date_month_year,#myModal_9 .date_month_year {
+    width: 68% !important;
+}
+    div#family_select span {
+
+    margin-bottom: 16px;
+}
+button#family_pop1
+{
+    margin-left: 0px !important;
+}
+.famliy_pop_button_2 {
+    width: 230px !important;
+}
+form#family_pop_Form label, div#singlepage_form #family_pop_Form input {
+    font-size: 14px !important;
+}
+form#family_pop_Form label {
+    width: 75px !important;
+}
+div#singlepage_form #family_pop_Form input  {
+width: 68%;
+max-width: 68% !important;
+}
+form#family_pop_Form {
+    width: 268px !important;
+}
+form#family_pop_Form {
+    padding: 10px 0px !important;
+}
+#family_pop_Form .form-group {
+    margin-bottom: 12px;
+}
+form#family_pop_Form ul.singlepage_form_ul .singlepage_city,form#family_pop_Form ul.singlepage_form_ul .singlepage_zip {
+    float: left;
+    width: 100% !important;
+}
+form#family_pop_Form ul.singlepage_form_ul .singlepage_city input ,form#family_pop_Form ul.singlepage_form_ul .singlepage_zip input{
+    float: left;
+    width: 100% !important;
+}
+form#family_pop_Form .form-group.singlepage_zip label {
+    border-right: none !important;
+}
+#myModal_family_5 h1,#myModal_family_6 h1
+{
+    font-size: 60px !important;
+}
+#myModal_family_5 p,#myModal_family_6 p
+{
+    width: 54% !important;
+}
+.message_page textarea
+{
+    height: 250px !important;
+}
+.refer_page textarea
+{
+    height: 250px !important;
+}
+#myModal_message_pop1 h1,#myModal_refer_pop1 h1 {
+    font-size: 70px!important;
+    width: 95% !important;
+}
+#myModal_message_pop1 p,#myModal_refer_pop1 p {
+    width: 75%!important;
+}
+.faq_page {
+    width: 100% !important;
+}
+.faq_page li
+{
+    padding: 20px 10px !important;
+}
+.faq_page {
+
+height: 480px !important;
+}
+#referForm p {
+    margin: 0 auto;
+    width: 58%;
+    font-size: 20px;
+}
+.teac_viewchild_age,.teac_viewchild_photo,.teac_viewchild_date  {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.call_iconst_viewchild {
+    width:275px !important;
+}
+.call_iconst_viewchild img {
+    width: 63px;
+}
+.nav > li > a {
+
+    padding: 15px 20px !important;
+}
+.oldrecards_grade_list li
+{
+    width: 97% !important;
+}
+.dash_gread_button_a,.dash_gread_button_b,.dash_gread_button_c
+{
+    width: 100% !important
+}
+.fc .fc-toolbar > * > * {
+    float: left;
+    margin-left: 2px !important;
+}
+.ui-widget input, .ui-widget select, .ui-widget textarea, .ui-widget button {
+    font-size: 12px !important;
+}
+
+.dalar_symobal {
+    width: 12% !important;
+    font-size: 45px !important;
+}
+.amount_payment_input {
+    float: left;
+    width: 88% !important;
+}
+.amount_payment_input input {
+    height: 40px !important;
+    margin-top: 9px !important;
+    font-size: 25px !important;
+}
+
+
+.date_mint_schedule {
+    float: left;
+    width: 100% !important;
+    border-right: none !important;
+    border-bottom: 2px solid #737373;
+    padding-bottom: 15px;
+}
+.date_mint_schedule {
+    font-size: 25px !important;
+}
+.schedule_mints
+{
+    width: 70% !important;
+font-size: 20px !important;
+}
+.date_no_schedule {
+    width: 100% !important;
+    font-size: 45px;
+    padding-top: 15px !important;
+}
+.date_no_schedule p {
+    font-size: 20px !important;
+}
+}
+
+
+@media (min-width: 481px) and (max-width: 640px){
+    .faq_page {
+    width: 100% !important;
+}
+#referForm p{
+    font-size: 18px !important;
+}
+.faq_page {
+
+height: 500px !important;
+}
+.faq_page li
+{
+    padding: 20px 10px !important;
+}
+    #myModal_message_pop1 h1,#myModal_refer_pop1 h1 {
+    font-size: 85px !important;
+
+    width: 95% !important;
+
+}
+#myModal_message_pop1 p,#myModal_refer_pop1 p {
+    width: 75%!important;
+}
+    #myModal_10 .date_month_year,#myModal_9 .date_month_year {
+    width: 68% !important;
+}
+.message_page textarea
+{
+    height: 250px !important;
+}
+.refer_page textarea
+{
+    height: 250px !important;
+}
+.famliy_pop_button_2 {
+    width: 230px !important;
+}
+.pop_10_grade_eye_icon
+{
+    width: 80% !important;
+}
+    .student_detalis_class_schudels
+    {
+        width: 46% !important;
+    }
+       .date_time_pop_3 ul li
+    {
+        font-size: 16px !important;
+    }
+        span.time_pop_3 {
+    width: 32% !important;
+    font-size: 12px !important;
+}
+.parent_dashboard_studentdetails_pop_2 h1
+{
+    font-size: 28px !important;
+}
+    span.date_month_year
+    {
+        width: 60% !important;
+        font-size: 12px !important;
+    }
+    span#popP3_edti_pencl, span#popP3_view_pencl
+    {
+        line-height: 25px !important;
+    }
+       div#myModal_4 h1,div#myModal_3 h1{
+       font-size: 20px !important;  
+    }
+        button.studentdetails_pop_3class_time, button.studentdetails_pop3_class_length
+    {
+        width: 100% !important;
+    }
+form#productForm label {
+    width: 75px !important;
+}
+div#singlepage_form input {
+    width: 65%;
+    max-width: 65% !important;
+}
+#parent_new_recoard #productForm {
+    width: 388px !important;
+}
+#parent_new_recoard div#singlepage_form input {
+    width: 77%;
+    max-width: 77% !important;
+}
+div#tab1 {
+    float: left;
+    width: 100%;
+    padding: 8px !important;
+}
+#productForm {
+    padding: 10px 0px !important;
+}
+ul.singlepage_form_ul .singlepage_city, ul.singlepage_form_ul .singlepage_zip {
+    float: left;
+    width: 85% !important;
+}
+input.cancel_button,input.save_button {
+
+    padding: 15px 10px !important;
+    width: 100px !important;
+    margin-top: 20px;
+}
+div#submint_button {
+    margin: 0px auto;
+    width: 216px !important;
+}
+#productForm {
+    width: 420px !important;
+}
+form#productForm label,div#singlepage_form input
+{
+    font-size: 15px !important;
+}
+#myCarousel {
+    margin: 0px auto;
+    width:370px !important;
+    display: table;
+}
+.parent_dashboard_studentdetail_height_sco {
+    float: left;
+    width: 100%;
+    height: 227px !important;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.parent_dashboard_studentdetails_pop h1 {
+    font-size: 35px !important;
+    }
+    div#family_select span {
+    float: left;
+    width: 46% !important;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 16px;
+}
+
+form#family_pop_Form label, div#singlepage_form #family_pop_Form input {
+    font-size: 14px !important;
+}
+form#family_pop_Form label {
+    width: 75px !important;
+}
+div#singlepage_form #family_pop_Form input  {
+width: 80%;
+max-width: 80% !important;
+}
+form#family_pop_Form {
+    width:420px !important;
+}
+form#family_pop_Form {
+    padding: 10px 0px !important;
+}
+#family_pop_Form .form-group {
+    margin-bottom: 12px;
+}
+form#family_pop_Form ul.singlepage_form_ul .singlepage_city,form#family_pop_Form ul.singlepage_form_ul .singlepage_zip {
+    float: left;
+    width: 100% !important;
+}
+form#family_pop_Form ul.singlepage_form_ul .singlepage_city input ,form#family_pop_Form ul.singlepage_form_ul .singlepage_zip input{
+    float: left;
+    width: 100% !important;
+}
+form#family_pop_Form .form-group.singlepage_zip label {
+    border-right: none !important;
+}
+.teac_viewchild_age,.teac_viewchild_photo,.teac_viewchild_date  {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.call_iconst_viewchild {
+    width: 312px !important;
+}
+.call_iconst_viewchild img {
+    width: 76px;
+}
+.oldrecards_grade_list li
+{
+    width: 30% !important;
+}
+.dash_gread_button_a,.dash_gread_button_b,.dash_gread_button_c
+{
+    width: 100% !important
+}
+
+.dalar_symobal {
+    width: 8% !important;
+    font-size: 45px !important;
+}
+.amount_payment_input {
+    float: left;
+    width: 92% !important;
+}
+.amount_payment_input input {
+    height: 40px !important;
+    margin-top: 9px !important;
+    font-size: 25px !important;
+}
+}
+@media (min-width: 641px) and (max-width: 767px){
+        #myModal_message_pop1 h1 {
+    font-size: 85px !important;
+
+    width: 95% !important;
+
+}
+#myModal_message_pop1 p {
+    width: 75%!important;
+}
+
+div#singlepage_form input {
+    width: 65%;
+    max-width: 65% !important;
+}
+#parent_new_recoard div#singlepage_form input {
+    width: 79%;
+    max-width: 79% !important;
+}
+ul.singlepage_form_ul .singlepage_city, ul.singlepage_form_ul .singlepage_zip {
+    float: left;
+    width: 89% !important;
+}
+input.cancel_button,input.save_button {
+
+    padding: 15px 10px !important;
+    width: 100px !important;
+    margin-top: 20px;
+}
+div#submint_button {
+    margin: 0px auto;
+    width: 216px !important;
+}
+#productForm {
+    width: 500px !important;
+}
+form#productForm label,div#singlepage_form input
+{
+    font-size: 16px !important;
+}
+#myCarousel {
+    margin: 0px auto;
+    width: 495px !important;
+    display: table;
+}
+.parent_dashboard_studentdetail_height_sco {
+    float: left;
+    width: 100%;
+    height: 354px !important;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.parent_dashboard_studentdetails_pop h1 {
+    font-size: 38px !important;
+    }
+        div#family_select span {
+    float: left;
+    width: 46% !important;
+    margin-left: 8px;
+    margin-right: 8px;
+    margin-bottom: 16px;
+}
+form#family_pop_Form label, div#singlepage_form #family_pop_Form input {
+    font-size: 14px !important;
+}
+form#family_pop_Form label {
+    width: 75px !important;
+}
+div#singlepage_form #family_pop_Form input  {
+width: 83%;
+max-width: 83% !important;
+}
+form#family_pop_Form {
+    width:500px !important;
+}
+form#family_pop_Form {
+    padding: 10px 0px !important;
+}
+#family_pop_Form .form-group {
+    margin-bottom: 12px;
+}
+form#family_pop_Form ul.singlepage_form_ul .singlepage_city,form#family_pop_Form ul.singlepage_form_ul .singlepage_zip {
+    float: left;
+    width: 100% !important;
+}
+form#family_pop_Form ul.singlepage_form_ul .singlepage_city input ,form#family_pop_Form ul.singlepage_form_ul .singlepage_zip input{
+    float: left;
+    width: 100% !important;
+}
+form#family_pop_Form .form-group.singlepage_zip label {
+    border-right: none !important;
+}
+.teac_viewchild_age,.teac_viewchild_photo,.teac_viewchild_date  {
+    width: 100%;
+    margin-bottom: 15px;
+}
+.call_iconst_viewchild {
+    width: 375px !important;
+}
+.call_iconst_viewchild img {
+    width: 97px;
+}
+.dalar_symobal {
+    width: 5% !important;
+    font-size: 45px !important;
+}
+.amount_payment_input {
+    float: left;
+    width: 95% !important;
+}
+.amount_payment_input input {
+    height: 40px !important;
+    margin-top: 9px !important;
+    font-size: 25px !important;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 991px)  {
+    .ul_2 img,.ul_1 img {
+    width: 100px;
+}
+#thumbs2 div.inner ul {
+    top: 45px !important;
+}
+.call_iconst_viewchild {
+    width: 53% !important;
+}
+.teach_viewchild_lists_icon .index-icon-text
+{
+    padding: 30px 0px !important;
+}
+.oldrecards_attendance .oldrecards_box {
+    width: 93.5% !important;
+}
+.oldrecards_grade .oldrecards_box {
+    float: left;
+    width: 93.5% !important;
+}
+#parent_new_recoard #productForm {
+    width: 485px;
+    padding: 10px;
+    margin: 0 auto;
+}
+#parent_new_recoard div#singlepage_form input {
+    max-width: 64%!important;
+}
+#parent_new_recoard,#parent_old_recoards {
+    height: 532px;
+}
+.dalar_symobal
+{
+    width: 10% !important;
+}
+.amount_payment_input
+{
+    width:90% !important;
+}
+.oldrecards_payment .oldrecards_box {
+    float: left;
+    width: 93% !important;
+}
+span.payment_oldrecards_amt_right
+{
+    right: -19px !important;
+}
+.oldrecards_schedule li
+{
+    width:98% !important;
+}
+.bviewchild_siblings_icon a {
+    height: 140px;
+    float: left;
+    width: 100%;
+}
+.bviewchild_siblings_icon img {
+    padding-top: 9px;
+}
+    }
+
+    @media (min-width: 992px) and (max-width: 1199px)  {
+    .ul_2 img,.ul_1 img {
+    width: 144px;
+}
+.call_iconst_viewchild {
+    width: 40% !important;
+}
+.oldrecards_attendance .oldrecards_box {
+    width: 95.2% !important;
+}
+.oldrecards_grade .oldrecards_box {
+    width: 95.6% !important;
+}
+.new_grade_left span {
+    float: left;
+    width: 18.7%!important;
+    }
+    .header_log 
+{
+    text-align: left!important;
+}
+#parent_new_recoard,#parent_old_recoards {
+    height: 532px;
+}
+.dalar_symobal
+{
+    width: 10% !important;
+}
+.amount_payment_input
+{
+    width:90% !important;
+}
+.oldrecards_payment .oldrecards_box {
+    float: left;
+    width: 93% !important;
+}
+span.payment_oldrecards_amt_right
+{
+    right: -7px !important;
+}
+.oldrecards_schedule li
+{
+    width:98% !important;
+}
+.bviewchild_siblings_icon a {
+    height: 140px;
+    float: left;
+    width: 100%;
+}
+.bviewchild_siblings_icon img {
+    padding-top: 9px;
+}
+    }
+
+@media (min-width: 1200px){
+
+#thumbs2 div.inner ul
+{
+    top: 12px !important;
+}
+.new_record_left span {
+    float: left;
+    width: 32.5% !important;
+    }
+    .new_grade_left span {
+    float: left;
+    width:18.99% !important;
+    }
+    .oldrecards_grade_list li {
+    width: 144px !important;
+    height: 144px !important;
+}
+.oldrecards_grade_list
+{
+    height: 380px;
+}
+.header_log 
+{
+    text-align: left!important;
+}
+#parent_new_recoard,#parent_old_recoards {
+    height: 532px;
+}
+.oldrecards_schedule li {
+
+    width: 99%!important;
+}
+}
+        @media (min-width: 641px) and (max-width: 767px)  {
+.ul_1 {
+    width: 90%;
+}
+.ul_2 {
+    width: 80%;
+}
+.ul_1 li {
+    float: left;
+    width: 25%;
+}
+.ul_2 li {
+    float: left;
+    width: 33%;
+}
+    .ul_2 img,.ul_1 img {
+    width: 105px;
+}
+.oldrecards_grade_list li
+{
+    width: 31% !important;
+}
+.dash_gread_button_a,.dash_gread_button_b,.dash_gread_button_c
+{
+    width: 100% !important
+}
+    }

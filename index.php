@@ -1,9 +1,0 @@
-<?php
-
-
-//test
-echo "hai";
-
-
-
-?>

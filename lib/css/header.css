@@ -1,0 +1,63 @@
+.header_log {
+    float: left;
+    width: 100%;
+    background: #fff;
+    padding: 15px 10px;
+        margin-bottom: 15px;
+        text-align: center;
+}
+.header_log img {
+
+    width: 500px;
+    padding-bottom: 15px;
+
+}
+.teacher_user_log_name img {
+    width: 50px;
+    margin-right: 8px;
+    padding: 0;
+}
+.teacher_user_log_name {
+    float: right;
+    line-height: 76px;
+}
+
+.btn-css
+{
+    color: #fff;
+    background-color: #712ad2;
+    border-color: #6321bd;
+    margin-left: 8px;
+}
+.teacher_user_log_name a:hover {
+	color: #fff
+}
+
+.teacher_log_img {
+    float: left;
+}
+.teacher_log_img p {
+    float: left;
+    max-width: 500px;
+}
+
+.teacher_log_img img {
+    float: left;
+    margin-top: 14px;
+}
+
+.teacher_log_img p {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    display: inherit;
+
+}
+.teacher_log_img a {
+    color: #585858;
+    text-transform: capitalize;
+}
+.teacher_log_img a:hover {
+    color: #585858;
+    text-transform: capitalize;
+}
