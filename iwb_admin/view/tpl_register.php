@@ -1,8 +1,13 @@
+<div class="container">
+<div class="row">
+
+<div class="col-md-4 col-md-offset-4">
 <form>
   <div class="form-group">
     <label for="Companyname">Company Name</label>
     <input type="text" class="form-control" id="cname"  placeholder="Enter Company Name">
   </div>
+  
   
   <div class="form-group">
     <label for="companySize">Company Size</label>
@@ -42,3 +47,7 @@
   
   <button type="submit" class="btn btn-primary">Register</button>
 </form>
+</div>
+</div>
+</div>
+
