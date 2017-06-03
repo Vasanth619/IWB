@@ -1,51 +1,37 @@
-       <div class="user_admin_page">
-         <div class="user_admin_center col-xs-11 col-sm-7 col-lg-5 col-md-5"> 
-          <h1>Log in</h1>
-            <form data-toggle="validator" role="form" id="familyloginForm" action="login.php" method="post">
+<div class="container">
+   
+   <h3 class="text-center">Corporate Login</h3>
 
-              <div class="form-group">
-                <label for="inputEmail" class="control-label">Email</label>
-                <input type="email" class="form-control" id="inputEmail" name="username" placeholder="Email" data-error="Bruh, that email address is invalid" required>
-                <div class="help-block with-errors"></div>
-              </div>
-              <div class="form-group">
-                <label for="inputPassword" class="control-label">Password</label>
-                  <input type="password" data-minlength="" class="form-control" id="inputPassword" name="password" placeholder="Password" required>
-              </div>
-            <div class="form-group">
-                 <a href="#" data-target="#pwdModal" data-toggle="modal">Forgot password</a>
-            </div>
-              <div id="user_submint" class="form-group">
-                <button id="user-submint_button" type="submit" class="btn btn-primary" name="login">Submit</button>
-              </div>
-            </form>
-            <a href="<?php echo $_CONFIG["base_url"].'index.php?page=register'?>">Register</a>
-          </div>  
-       </div> 
+ <div class="col-md-6 col-md-offset-3">
+    <form class="form-horizontal">
+  <div class="form-group">
+    <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="inputPassword3" class="col-sm-2 control-label">Password</label>
+    <div class="col-sm-10">
+      <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+      <div class="checkbox">
+        <label>
+          <input type="checkbox"> Remember me
+        </label>
+      </div>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+      <button type="submit" class="btn btn-primary">Sign in</button>
+      <a href="#" class="btn" role="button">Register</a>
+    </div>
+  </div>
+</form>
+ </div>
 
-<script>
-$(document).ready(function()
-{
-                
-                $("#familyloginForm").ajaxForm
-                ({
-                    
-                    success:function(data)
-                    {
-                       
-                         
-                         if(data == 'true')
-                         {
-                            window.location.href ='<?php echo $_CONFIG["base_url"];?>';
-                            //alert("true");
-                         }
-                         else if(data == 'false')
-                         {
-                            alert("login failed");
-                           
-                         }
-                    }
-                });
-});
-       
-</script>
+</div>

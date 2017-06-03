@@ -9,11 +9,11 @@
 		?>
 		<title>Admin Login</title>
 	</head>
-	<body>
+	<body style="background-color: white">
 		<div>
 			<div>
 				<?php			
-				    if($_PAGE != "register") {
+				    if(!($_PAGE == "register" || $_PAGE == "login" || $_PAGE == "addPosition")) {
 					if(file_exists($_CONFIG['html_path'].'tpl_header.php'))
 					{
 						include_once($_CONFIG['html_path'].'tpl_header.php'); 
@@ -33,7 +33,7 @@
 			</div>
 			<div>
 				<?php
-                   if($_PAGE != "register") {				
+                   if(!($_PAGE == "register" || $_PAGE == "login" || $_PAGE == "addPosition")) {				
 					if(file_exists($_CONFIG['html_path'].'tpl_footer.php'))
 					{
 						include_once($_CONFIG['html_path'].'tpl_footer.php'); 
