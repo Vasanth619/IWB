@@ -21,7 +21,7 @@
 					$check_file_exists = false;
 				}
 
-				foreach($_files as $file){				
+				foreach($_files as $file){
 
 					if(($script_for == "page") && ($type == "js")){
 						$file = $file.".js.php";
@@ -40,7 +40,7 @@
 						}
 					}
 
-					if($ok_to_load){                                
+					if($ok_to_load){
 						switch($type){
 							case "js":
 								?>
@@ -51,9 +51,9 @@
 							case "css":
 								?>
 								<link rel="stylesheet" type="text/css" href="<?php echo $loc.$file;?>" media="all">
-								<?php                     
+								<?php
 							break;
-						}                    
+						}
 					}
 				}
 			}
@@ -77,27 +77,26 @@
 	    	}
 	    	if(!$format){
 	    		$format = "M j,Y";
-	    	}	    	
+	    	}
 	    	return date($format, $time);
 	    }
 
    		function check_login($para)
 
 		{
-            	
 
 			$login_mail= $para['username'];
-			 
+
 
 			$converted_pwd= md5($para['password']);
 			$get_login_data= DB::select_from_table(array('table'=>'admin','where'=>array('email'=>$login_mail,'password'=>$converted_pwd),'return'=>'row'));
 			//print_r($get_login_data);exit;
-			
+
 			$user_profile_name=$get_login_data['data']['user_profile_name'];
-			
-			
-			
-			
+
+
+
+
 			if($get_login_data['count'] == 1)
 			{
 				$_SESSION['logged_in'] = true;
@@ -106,20 +105,20 @@
 			}
 			else
 			{
-				
+
 				$_SESSION['logged_in']= false;
 				return "false";
 			}
 
-		
+
 		}
 
-		
-		
+
+
 		function update_data($para)
 
 		{
-         
+
 
 		$userid = $para['uid'];
         $name = $para['uid'];
@@ -151,9 +150,9 @@ exit;
 
 
 		}
-		
-		
-		
+
+
+
 
 
 
@@ -162,12 +161,12 @@ exit;
 
             if(isset($mail_data['to']))
             {
-				$headers .= "MIME-Version: 1.0 \n"; 
+				$headers .= "MIME-Version: 1.0 \n";
 			    $headers .= "Content-type: text/html; charset=UTF-8 \n";
-                $headers .= "From: ".$mail_data['from']. "\r\n"; 
+                $headers .= "From: ".$mail_data['from']. "\r\n";
 
                 if($mail_data['reply_to']){
-                    $headers .= "Reply-to: " .$mail_data['reply_to'].  "\r\n";    
+                    $headers .= "Reply-to: " .$mail_data['reply_to'].  "\r\n";
                 }
                 if($mail_data['return']){
                     $headers .= "Return-Path: ".$mail_data['return']. "\r\n";
@@ -176,11 +175,11 @@ exit;
                 if($mail_data['bcc']){//added by karthi if in case we need to send a bcc
                     $headers .= "Bcc: ".$mail_data['bcc']."\r\n";
                 }
-                
+
                 if($mail_data['cc']){//added by ram if in case we need to send a cc
                     $headers .= "cc: ".$mail_data['cc']."\r\n";
                 }
-                                            
+
                 if($mail_data['message_id']){
                     $headers .= "Message-Id: <".$mail_data['message_id']. ">\r\n";
                 }
@@ -196,7 +195,7 @@ exit;
                     {
                         return 'The mail has not been successfully sent.';
                     }
-			}                
+			}
         }
 
 
